@@ -25,3 +25,7 @@ StructField("gender",StringType(),True)
  #Displaying the data
  df.show(truncate=False)
  
+ #Printschema
+ df.printSchema()
+ 
+ 
